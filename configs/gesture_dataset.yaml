@@ -1,0 +1,6 @@
+path: datasets/gesture
+train: train/images
+val: val/images
+test: test/images
+nc: 5
+names: ["rock", "paper", "scissors", "OK", "good"]
